@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "928352644478",
+    "firebase_url": "https://appmiaged-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "appmiaged",
+    "storage_bucket": "appmiaged.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928352644478:android:11172839188ae8f518572f",
+        "android_client_info": {
+          "package_name": "com.example.appmiagedelias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928352644478-dpv49b7f30mnr4fho5sus2pkhmhi1hqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2btIKCQF5TYXOW0EoNH3W635IYisA8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928352644478-dpv49b7f30mnr4fho5sus2pkhmhi1hqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928352644478-263gjdla3rs5vd0qd5e2tulru4m1oce1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miaged"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928352644478:android:d0fff2ae3969070b18572f",
+        "android_client_info": {
+          "package_name": "com.example.miaged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928352644478-dpv49b7f30mnr4fho5sus2pkhmhi1hqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2btIKCQF5TYXOW0EoNH3W635IYisA8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928352644478-dpv49b7f30mnr4fho5sus2pkhmhi1hqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928352644478-263gjdla3rs5vd0qd5e2tulru4m1oce1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miaged"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
