@@ -11,8 +11,9 @@ Tout le MVP a été développé, Cependant :
 
 => A NOTER: 
 - A savoir que j'ai seulement testé mon application dans un navigateur chrome car mon PC n'étant pas capable de gérer un émulateur Android, je ne garantis donc rien sur d'autre environement que celui-ci
-- Il survient plusieurs erreurs durant l'utilisation de l'application, un écran rouge apparait pendant quelques secondes, etc, cependant ces erreurs ne sont pas bloquante et ne mènent au crash de l'application à moins d'effectuer plusieurs manipulation rapidement d'un seul coup par exemple ou d'enchainer les différentes connexions et déconnexions aux profils.
+- Il ne doit y avoir aucune erreur à la compilation de mon code si vous ajoutez corectement les différents package liés aux dépendances MAIS il survient plusieurs erreurs durant l'utilisation de l'application, un écran rouge apparait pendant quelques secondes, etc, CEPENDANT ces erreurs ne sont pas bloquante et ne mènent au crash de l'application à moins d'effectuer plusieurs manipulation rapidement d'un seul coup par exemple ou d'enchainer les différentes connexions et déconnexions aux profils.
 - A la connexion au compte admin il se peut aussi que des vetements se trouvent deja dans le panier.
 
 
 Je vous remercie pour votre attention.
+Elias TAZI
